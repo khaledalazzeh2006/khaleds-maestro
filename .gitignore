@@ -1,0 +1,9 @@
+node_modules
+out
+dist
+release
+*.log
+# the sound library IS committed (the release build needs it); only build output is ignored
+*.tsbuildinfo
+__pycache__
+_incoming

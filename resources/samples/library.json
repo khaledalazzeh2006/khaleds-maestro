@@ -1,0 +1,268 @@
+{
+ "packs": [
+  {
+   "id": "violin-solo",
+   "name": "Solo violin",
+   "family": "Strings",
+   "kind": "sus"
+  },
+  {
+   "id": "violin-solo-trem",
+   "name": "Solo violin \u00b7 tremolo",
+   "family": "Strings",
+   "kind": "sus"
+  },
+  {
+   "id": "violin-solo-spic",
+   "name": "Solo violin \u00b7 short",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "violin-solo-pizz",
+   "name": "Solo violin \u00b7 pizzicato",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "violins",
+   "name": "Violins",
+   "family": "Strings",
+   "kind": "sus"
+  },
+  {
+   "id": "violins-trem",
+   "name": "Violins \u00b7 tremolo",
+   "family": "Strings",
+   "kind": "sus"
+  },
+  {
+   "id": "violins-spic",
+   "name": "Violins \u00b7 short",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "violins-pizz",
+   "name": "Violins \u00b7 pizzicato",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "violas",
+   "name": "Violas",
+   "family": "Strings",
+   "kind": "sus"
+  },
+  {
+   "id": "violas-trem",
+   "name": "Violas \u00b7 tremolo",
+   "family": "Strings",
+   "kind": "sus"
+  },
+  {
+   "id": "violas-spic",
+   "name": "Violas \u00b7 short",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "violas-pizz",
+   "name": "Violas \u00b7 pizzicato",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "cellos",
+   "name": "Cellos",
+   "family": "Strings",
+   "kind": "sus"
+  },
+  {
+   "id": "cellos-trem",
+   "name": "Cellos \u00b7 tremolo",
+   "family": "Strings",
+   "kind": "sus"
+  },
+  {
+   "id": "cellos-spic",
+   "name": "Cellos \u00b7 short",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "cellos-pizz",
+   "name": "Cellos \u00b7 pizzicato",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "basses",
+   "name": "Double bass",
+   "family": "Strings",
+   "kind": "sus"
+  },
+  {
+   "id": "basses-spic",
+   "name": "Double bass \u00b7 short",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "basses-pizz",
+   "name": "Double bass \u00b7 pizzicato",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "harp",
+   "name": "Harp",
+   "family": "Strings",
+   "kind": "shot"
+  },
+  {
+   "id": "flute",
+   "name": "Flute",
+   "family": "Woodwinds",
+   "kind": "sus"
+  },
+  {
+   "id": "oboe",
+   "name": "Oboe",
+   "family": "Woodwinds",
+   "kind": "sus"
+  },
+  {
+   "id": "clarinet",
+   "name": "Clarinet",
+   "family": "Woodwinds",
+   "kind": "sus"
+  },
+  {
+   "id": "bassoon",
+   "name": "Bassoon",
+   "family": "Woodwinds",
+   "kind": "sus"
+  },
+  {
+   "id": "horn",
+   "name": "French horn",
+   "family": "Brass",
+   "kind": "sus"
+  },
+  {
+   "id": "trumpet",
+   "name": "Trumpet",
+   "family": "Brass",
+   "kind": "sus"
+  },
+  {
+   "id": "trombone",
+   "name": "Trombone",
+   "family": "Brass",
+   "kind": "sus"
+  },
+  {
+   "id": "tuba",
+   "name": "Tuba",
+   "family": "Brass",
+   "kind": "sus"
+  },
+  {
+   "id": "piano",
+   "name": "Grand piano",
+   "family": "Keys",
+   "kind": "piano"
+  },
+  {
+   "id": "glockenspiel",
+   "name": "Glockenspiel",
+   "family": "Keys",
+   "kind": "shot"
+  },
+  {
+   "id": "marimba",
+   "name": "Marimba",
+   "family": "Keys",
+   "kind": "shot"
+  },
+  {
+   "id": "xylophone",
+   "name": "Xylophone",
+   "family": "Keys",
+   "kind": "shot"
+  },
+  {
+   "id": "timpani",
+   "name": "Timpani",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "timpani-roll",
+   "name": "Timpani roll",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "bass-drum",
+   "name": "Bass drum",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "snare",
+   "name": "Snare drum",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "crash",
+   "name": "Crash cymbals",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "cymbal",
+   "name": "Suspended cymbal",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "gong",
+   "name": "Gong",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "conga",
+   "name": "Conga",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "tumba",
+   "name": "Tumba",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "quinto",
+   "name": "Quinto",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "tambourine",
+   "name": "Tambourine",
+   "family": "Percussion",
+   "kind": "perc"
+  },
+  {
+   "id": "triangle",
+   "name": "Triangle",
+   "family": "Percussion",
+   "kind": "perc"
+  }
+ ]
+}

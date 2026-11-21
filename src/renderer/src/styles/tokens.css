@@ -1,0 +1,22 @@
+/* Velvet & Varnish - the single source of design tokens (see docs/DESIGN.md) */
+:root {
+  --velvet: #1e1220;
+  --box: #2b1a2c;
+  --well: #241524;
+  --seam: #4a3049;
+  --ivory: #f4eadb;
+  --rosin: #bfa6b5;
+  --mute: #8e7486;
+  --varnish: #e8933f;
+  --varnish-soft: #f2b272;
+  --brass: #e9c46a;
+  --bow-wood: #c9a36a;
+
+  --font-display: 'Bodoni Moda Variable', 'Bodoni Moda', serif;
+  --font-ui: 'Figtree Variable', 'Figtree', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+
+  --r-pill: 999px;
+  --r-panel: 20px;
+  --r-key: 12px;
+}
